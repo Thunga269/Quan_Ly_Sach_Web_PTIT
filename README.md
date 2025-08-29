@@ -42,3 +42,9 @@ Sau đó số lượng = số lượng ban đầu của sách đó trong giỏ +
 Nếu số lượng <= 0 thì loại bỏ khỏi giỏ, ngược lại thêm mới số lượng đó.
 
 Khi đặt hàng xong: thực hiện xóa cartInfo trong session (method removeCartInSession của classUtils).
+
+# Đánh giá của khách hàng 
+Lấy id_book, username ; Set các giá trị book, user, và thời gian comment của user đó rồi save trong repository.
+
+**Lưu star**: Tạo 1 input trên html, khi ấn Star -> xác định vị trí của ngôi sao và lưu ở input đó (lấy số Star)
+
