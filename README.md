@@ -1,7 +1,10 @@
 # Quản lý sách
 Môn học: Lập Trình Web PTIT
+
 Yêu cầu dự án: Tạo Web quản lý sách (Người bán, người mua, các thao tác quản lý sách, mua sách, thanh toán, ...)
+
 Chi tiết: [Link YouTube](https://youtu.be/XwT-syuvcQU?si=BLijGWfBIddWHMIJ)
+
 (Dưới đây nêu một vài điểm đáng chú ý)
 # Công nghệ
 SpringBoot
